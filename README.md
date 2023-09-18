@@ -1,4 +1,4 @@
-# UM Sshortcode Time Viewer
+# UM Shortcode Time Viewer
 Extension to Ultimate Member for different date and time view formats.
 
 ## Shortcode
