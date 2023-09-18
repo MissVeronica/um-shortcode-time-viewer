@@ -9,7 +9,7 @@ Extension to Ultimate Member for different date and time view formats.
 5. <code>wp1</code>  WP Settings -> Date Format
 6. <code>wp2</code>  WP Settings -> Time Format 
 7. <code>wp3</code>  WP Date plus Time 
-8. <code>custom</code>
+8. <code>custom</code> example <code>format="custom" custom="Y/m/d"</code>
 9. Custom: PHP Date format see https://www.php.net/manual/en/datetime.format.php
 
 ## Shortcode examples
