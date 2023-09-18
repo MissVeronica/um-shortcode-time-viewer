@@ -4,7 +4,7 @@ Extension to Ultimate Member for different date and time view formats.
 ## Shortcode
 1. <code>[um_time_view meta_key="" format="" custom=""]Custom text %s with result[/um_time_view]</code>
 2. UM meta_key
-3. Formats: human, wp1, wp2, wp3, custom
+3. Formats: human, wp1 ( WP Settings -> Date Format), wp2 ( WP Settings -> Time Format ), wp3 ( WP Date plus Time ), custom 
 4. Custom: PHP Date format see https://www.php.net/manual/en/datetime.format.php
 
 ## Shortcode examples
